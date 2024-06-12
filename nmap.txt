@@ -1,0 +1,3 @@
+dip
+nmap -p- -sV $dip
+nmap -p 3110 -sV $dip
